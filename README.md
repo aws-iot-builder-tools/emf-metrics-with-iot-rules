@@ -1,7 +1,7 @@
-## Batch Ingestion and Routing of Embedded Metric Format (EMF) logs to Amazon CloudWatch
+## Batch Ingestion and Routing of Embedded Metric Format (EMF) IoT Device Metrics to Amazon CloudWatch
 
-This sample shows how to use AWS IoT Core Rules Engine to Batch Ingest and Route Embedded Metric Format (EMF) Logs to Amazon CloudWatch. 
-From these logs, Amazon CloudWatch will automatically extract metrics which will be available in CloudWatch Metrics for viewing, creating charts and configuring alarms.
+This sample shows how to use an IoT Device simulator to generate device metrics in EMF format and AWS IoT Core Rules Engine to Batch Ingest and Route Embedded Metric Format (EMF) Logs to Amazon CloudWatch. 
+From these logs, Amazon CloudWatch will automatically extract the metrics which will be available in CloudWatch Metrics for viewing, creating charts and configuring alarms.
 
 For more information about this approach, have a look at the Blog Post: 
 <Link here>
