@@ -51,7 +51,7 @@ The AWS resources for this demo are created and deployed using AWS CDK. The CDK 
 `
 * An IoT Rule for Basic Ingest, configured with an action to batch ingest log entries into Amazon CloudWatch.
 * An IAM Role with the correct IAM policy allowing the IoT Rule to ingest into CloudWatch.
-* 
+
 **Pre-requisites:**
 
 * You must have AWS CDK installed and configured with the required credentials for your AWS Account. For help with this, follow https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-typescript.html
