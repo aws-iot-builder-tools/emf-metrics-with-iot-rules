@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "uuid": "^9.0.0",
+    "@aws-sdk/client-iot": "^3.327.0",
+    "systeminformation": "^5.18.3",
+    "convert-size": "^1.2.1"
+  },
+  "type": "module"
+}

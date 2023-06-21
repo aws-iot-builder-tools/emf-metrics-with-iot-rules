@@ -1,0 +1,10 @@
+/.idea/
+# Ignore Mac DS_Store files
+**/.DS_Store
+/emf-metrics-with-iot-rules.iml
+/infra/cdk.out/
+/infra/node_modules/
+**/MyApp123.cert.pem
+**/MyApp123.private.key
+/app/node_modules/
+/certs/

@@ -1,11 +1,14 @@
-## My Project
+## Batch Ingestion and Routing of Embedded Metric Format (EMF) logs to Amazon CloudWatch
 
-TODO: Fill this README out!
+This sample shows how to use AWS IoT Core Rules Engine to Batch Ingest and Route Embedded Metric Format (EMF) Logs to Amazon CloudWatch. 
+From these logs, Amazon CloudWatch will automatically extract metrics which will be available in CloudWatch Metrics for viewing, creating charts and configuring alarms.
 
-Be sure to:
+For more information about this approach, have a look at the Blog Post: 
+<Link here>
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## Set-Up 
+
+Follow the set-up steps in the blog.
 
 ## Security
 
