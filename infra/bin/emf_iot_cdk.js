@@ -1,9 +1,0 @@
-#!/usr/bin/env node
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-require("source-map-support/register");
-const cdk = require("@aws-cdk/core");
-const emf_iot_cdk_1 = require("../lib/emf_iot_cdk");
-const app = new cdk.App();
-new emf_iot_cdk_1.EMFIoTCdkStack(app, 'EMFCDKIoTStack', {});
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZW1mX2lvdF9jZGsuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJlbWZfaW90X2Nkay50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7QUFDQSx1Q0FBcUM7QUFDckMscUNBQXFDO0FBQ3JDLG9EQUFvRDtBQUdwRCxNQUFNLEdBQUcsR0FBRyxJQUFJLEdBQUcsQ0FBQyxHQUFHLEVBQUUsQ0FBQztBQUMxQixJQUFJLDRCQUFjLENBQUMsR0FBRyxFQUFFLGdCQUFnQixFQUFFLEVBRXpDLENBQUMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIiMhL3Vzci9iaW4vZW52IG5vZGVcbmltcG9ydCAnc291cmNlLW1hcC1zdXBwb3J0L3JlZ2lzdGVyJztcbmltcG9ydCAqIGFzIGNkayBmcm9tICdAYXdzLWNkay9jb3JlJztcbmltcG9ydCB7IEVNRklvVENka1N0YWNrIH0gZnJvbSAnLi4vbGliL2VtZl9pb3RfY2RrJztcblxuXG5jb25zdCBhcHAgPSBuZXcgY2RrLkFwcCgpO1xubmV3IEVNRklvVENka1N0YWNrKGFwcCwgJ0VNRkNES0lvVFN0YWNrJywge1xuXG59KTsiXX0=
