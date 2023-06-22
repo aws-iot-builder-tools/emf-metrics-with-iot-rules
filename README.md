@@ -5,6 +5,10 @@ From these logs, Amazon CloudWatch will automatically extract the metrics which 
 
 For more information about this approach, have a look at the [Blog Post](https://dev.to/iotbuilders/batch-ingestion-of-iot-device-metrics-into-amazon-cloudwatch-metrics-using-embedded-metric-format-emf-3o6b).
 
+## Architecture
+
+![High Level Diagram](docs/high_level_diagram.jpg)
+
 ## Set-Up 
 
 To run this demo, clone the repo: https://github.com/aws-iot-builder-tools/emf-metrics-with-iot-rules
