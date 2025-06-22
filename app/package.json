@@ -5,7 +5,7 @@
     "mqtt": "^4.3.7",
     "uuid": "^9.0.0",
     "@aws-sdk/client-iot": "^3.637.0",
-    "systeminformation": "^5.21.7",
+    "systeminformation": "^5.23.8",
     "convert-size": "^1.2.1"
   },
   "type": "module"
